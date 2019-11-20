@@ -11,15 +11,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.code.gson:gson:2.8.5:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.1:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: org.apache.httpcomponents:httpmime:4.5.9:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: org.apache.httpcomponents:httpcore-nio:4.4.11:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: org.apache.httpcomponents:httpcore:4.4.11:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: org.apache.httpcomponents:httpclient:4.5.9:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: org.apache.httpcomponents:httpasyncclient:4.1.4:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: commons-codec:commons-codec:1.11:jar" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="sbt: com.konghq:unirest-java:3.1.04:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpmime:4.5.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore-nio:4.4.10:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.4.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.5.9:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpasyncclient:4.1.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-codec:commons-codec:1.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.konghq:unirest-java:3.1.02:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.8.5:jar" level="project" />
   </component>
 </module>
